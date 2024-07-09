@@ -3,7 +3,7 @@
 	url = https://github.com/syntacore/scr1
 [submodule "fpga"]
 	path = fpga
-	url = https://github.com/syntacore/fpga-sdk-prj
+	url = git@github.com:pConst/fpga-sdk-prj.git
 [submodule "sw/sc-bl"]
 	path = sw/sc-bl
 	url = https://github.com/syntacore/sc-bl
